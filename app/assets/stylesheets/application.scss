@@ -1,11 +1,12 @@
-body{
-  background: rgb(0,0,0);
-  background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(18,52,59,1) 100%);
-    color: white;
-    max-width: 1024px;
-    margin-left: auto;
-    margin-right: auto;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
+// Graphical variables
+@import "config/fonts";
+@import "config/colors";
+@import "config/bootstrap_variables";
+
+// External libraries
+
+
+
+// Your CSS partials
+@import "components/index";
+@import "pages/index";

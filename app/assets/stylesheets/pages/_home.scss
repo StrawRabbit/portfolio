@@ -1,0 +1,32 @@
+// Specific CSS for your home-page
+body{
+  background: rgb(0,0,0);
+  background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(18,52,59,1) 100%);
+    color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+.container {
+  width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.biography {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.biography-picture {
+  height: 240px;
+  border-radius: 10px;
+  border: solid 2px;
+  border-color: #e1b382a8;
+}

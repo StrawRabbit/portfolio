@@ -1,0 +1,31 @@
+.navbar {
+  text-align: center;
+  margin: 20px 0 0 ;
+  padding: 10px;
+  background-color: #e1b38270;
+  word-spacing: 19px;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #e1b382a8;
+  margin-bottom: 25px;
+}
+
+a:link {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+a:visited {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+a:hover {
+  text-decoration: none;
+  color: rgb(225, 109, 109);
+}
+
+a:active {
+  text-decoration: none;
+  color: yellow;
+}
