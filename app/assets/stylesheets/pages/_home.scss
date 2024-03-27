@@ -30,3 +30,17 @@ h1 {
   border: solid 2px;
   border-color: #e1b382a8;
 }
+
+.contact-info {
+  width: 50%;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  height: 80px;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  margin-left: auto;
+  margin-right: auto;
+}
